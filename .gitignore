@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+waifu.log
+waifu.pid
+nohup.out
+.env
